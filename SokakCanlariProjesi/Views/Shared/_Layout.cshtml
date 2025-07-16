@@ -1,0 +1,30 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject UserManager<SokakCanlariProjesi.Models.ApplicationUser> UserManager
+@inject SignInManager<SokakCanlariProjesi.Models.ApplicationUser> SignInManager
+
+@{
+    SokakCanlariProjesi.Models.ApplicationUser user = null;
+    if (SignInManager.IsSignedIn(User))
+    {
+        user = await UserManager.GetUserAsync(User);
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - SokakCanlariProjesi</title>
+    <link rel="stylesheet" href="~/Login-Register/css/style.css" />
+</head>
+<body>
+
+    @RenderBody()
+
+    @* @if (user != null)
+    {
+        <p style="text-align:right">Hoş geldin, <strong>@user.FirstName</strong> 👋</p>
+    } *@
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

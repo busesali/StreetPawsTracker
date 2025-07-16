@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\hayvansever.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\hayvansever.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\image2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\image2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\image3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\image3.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\logo1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\logo1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\pati.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\pati.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\img\\hayvanlar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\hayvanlar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\migrations\\20250710083229_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\migrations\\20250710083229_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hayvansever.jpg",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T11:46:57.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pati.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T11:46:44.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "logo1.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T11:08:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hayvanlar.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T10:01:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T09:33:07.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "image3.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T09:02:25.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "image2.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T09:02:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "image1.png",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-11T09:02:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
+              "ViewState": "AgIAANUBAAAAAAAAAAAowN8BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-10T11:37:17.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T09:09:08.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
+              "RelativeToolTip": "SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-10T12:34:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:13:51.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:13:51.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T09:29:09.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:09:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250710083951_AddFirstAndLastNameToUser.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:39:51.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250710083229_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:32:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:31:13.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Program.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Program.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:29:12.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\appsettings.json",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\appsettings.json",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\appsettings.json",
+              "RelativeToolTip": "SokakCanlariProjesi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T00:27:42.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:21:26.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:19:44.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1034,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

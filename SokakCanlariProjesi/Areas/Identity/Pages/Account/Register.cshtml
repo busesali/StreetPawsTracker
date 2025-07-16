@@ -1,0 +1,102 @@
+﻿@page
+
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<main class="sign-up-mode">
+    <div class="box">
+        <div class="inner-box">
+            <div class="forms-wrap">
+
+                <form asp-route-returnUrl="@Model.ReturnUrl" method="post" class="sign-up-form">
+                    <div class="logo">
+                        <img src="~/Login-Register/img/pati.png" alt="easyclass" />
+                        <h4>PatiRotası</h4>
+                    </div>
+
+                    <div class="heading">
+                        <h2>Kayıt Ol</h2>
+                        <h6>Zaten bir hesabın var mı?</h6>
+                        <a asp-page="./Login" class="toggle">Giriş Yap</a>
+                    </div>
+
+                    <div class="actual-form">
+
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.FirstName" class="input-field" placeholder="AD" autocomplete="off" required />
+                            <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                        </div>
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.LastName" class="input-field" placeholder="SOYAD" autocomplete="off" required />
+                            <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.Email"
+                                   class="input-field @(ViewData.ModelState["Input.Email"]?.Errors.Count > 0 ? "email-invalid" : "")"
+                                   placeholder="EMAİL" autocomplete="off" required />
+                            <span asp-validation-for="Input.Email" class="text-danger email-error-icon"></span>
+                        </div>
+
+
+
+                        <div class="input-wrap @(ViewData.ModelState["Input.Password"]?.Errors.Count > 0 ? "has-error" : "")">
+                            <input asp-for="Input.Password" class="input-field" type="password" placeholder="PAROLA" autocomplete="off" required />
+                            <span asp-validation-for="Input.Password" class="text-danger email-error-icon"></span>
+                        </div>
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.ConfirmPassword" class="input-field" type="password" placeholder="PAROLA TEKRARI" autocomplete="off" required />
+                            <span asp-validation-for="Input.ConfirmPassword" class="text-danger email-error-icon"></span>
+                        </div>
+
+                        <button type="submit" class="sign-btn">Sign Up</button>
+
+                        <p class="text">
+                            By signing up, I agree to the
+                            <a href="#">Terms of Services</a> and
+                            <a href="#">Privacy Policy</a>
+                        </p>
+                    </div>
+                </form>
+
+            </div>
+
+            <div class="carousel">
+                <div class="images-wrapper">
+                    <img src="~/Login-Register/img/hayvanlar.png" class="image img-1 show" alt="" />
+                    <img src="~/Login-Register/img/beslenenHayvanlar.jpeg" class="image img-2" alt="" />
+                    <img src="~/Login-Register/img/hayvansever.jpg" class="image img-3" alt="" />
+                </div>
+
+                <div class="text-slider">
+                    <div class="text-wrap">
+                        <div class="text-group">
+                            <h2>Hayvan dostlarımız için bir adım at</h2>
+                            <h2>Besleme ve tedavi takibini kolaylaştır</h2>
+                            <h2>Gönüllüleri projeye davet et</h2>
+                        </div>
+                    </div>
+
+                    <div class="bullets">
+                        <span class="active" data-value="1"></span>
+                        <span data-value="2"></span>
+                        <span data-value="3"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/Login-Register/js/app.js"></script>
+}
+
+

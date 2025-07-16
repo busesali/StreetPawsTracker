@@ -1,0 +1,80 @@
+﻿@page
+
+@model LoginModel
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<main>
+    <div class="box">
+        <div class="inner-box">
+            <div class="forms-wrap">
+
+                <form asp-route-returnUrl="@Model.ReturnUrl" method="post" class="sign-in-form">
+                    <div class="logo">
+                        <img src="~/Login-Register/img/pati.png" alt="easyclass" />
+                        <h4>PatiRotası</h4>
+                    </div>
+
+                    <div class="heading">
+                        <h2>Giriş Yap</h2>
+                        <h6>Henüz kayıt olmadın mı?</h6>
+                        <a asp-page="./Register" class="toggle">Kayıt Ol</a>
+                    </div>
+
+                    <div class="actual-form">
+                        <!-- <div asp-validation-summary="ModelOnly" class="text-danger email-error-icon" role="alert"></div> -->
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.Email" class="input-field" placeholder="Email" autocomplete="off" required />
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="input-wrap">
+                            <input asp-for="Input.Password" class="input-field" type="password" placeholder="Password" autocomplete="off" required />
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            @if (ViewData.ModelState[string.Empty]?.Errors.Count > 0)
+                            {
+                                <div class="email-error-icon" style="display:flex;align-items:center;margin-top:8px;">
+                                    @ViewData.ModelState[string.Empty].Errors[0].ErrorMessage
+                                </div>
+                            }
+                        </div>
+
+                        <div class="input-wrap" style="display: flex; align-items: center;">
+                            <input asp-for="Input.RememberMe" type="checkbox" id="rememberMe" style="margin-right: 10px;" />
+                            <label for="rememberMe" style="margin-left: 15px;">Remember me</label>
+                        </div>
+
+                        <button type="submit" class="sign-btn">Giriş Yap</button>
+
+                        <p class="text">
+                            Şifreni mi unuttun?
+                            <a asp-page="./ForgotPassword">Yardım Al</a> signing in
+                        </p>
+                    </div>
+                </form>
+
+            </div>
+
+            <div class="carousel">
+                <div class="images-wrapper">
+                    <img src="~/Login-Register/img/hayvansever.jpg" class="image img-1 show" alt="" />
+                </div>
+
+                <div class="text-slider">
+                    <div class="text-wrap">
+                        <div class="text-group">
+                            <h2>Her pati bir iz bırakır, sen de takip et!</h2>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
