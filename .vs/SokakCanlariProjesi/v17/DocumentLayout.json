@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\img\\pati.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\wwwroot\\login-register\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\wwwroot\\login-register\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -71,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|solutionrelative:sokakcanlariprojesi\\migrations\\20250710083951_addfirstandlastnametouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D997E4F-51A2-485C-8356-6B7951A29678}|SokakCanlariProjesi\\SokakCanlariProjesi.csproj|c:\\users\\buse\\source\\repos\\sokakcanlariprojesi\\sokakcanlariprojesi\\migrations\\20250710083229_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 54,
           "Children": [
             {
               "$type": "Bookmark",
@@ -242,7 +246,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SokakCanlariProjesi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T09:10:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "hayvansever.jpg",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvansever.jpg",
@@ -253,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "pati.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\pati.png",
@@ -264,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "logo1.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\logo1.png",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "hayvanlar.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\hayvanlar.png",
@@ -286,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "image3.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image3.png",
@@ -309,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "image2.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image2.png",
@@ -320,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "image1.png",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\img\\image1.png",
@@ -331,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\css\\style.css",
@@ -343,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -355,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\wwwroot\\Login-Register\\js\\app.js",
@@ -367,20 +384,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SokakCanlariProjesi\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-10T10:13:51.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Views\\Shared\\_LoginPartial.cshtml",
@@ -392,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -404,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -416,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "20250710083951_AddFirstAndLastNameToUser.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Migrations\\20250710083951_AddFirstAndLastNameToUser.cs",
@@ -428,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250710083229_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Migrations\\20250710083229_InitialCreate.cs",
@@ -440,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Models\\ErrorViewModel.cs",
@@ -458,14 +475,14 @@
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Program.cs",
               "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Program.cs",
               "RelativeToolTip": "SokakCanlariProjesi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T00:29:12.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\appsettings.json",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\appsettings.json",
@@ -473,32 +490,32 @@
               "RelativeToolTip": "SokakCanlariProjesi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T00:27:42.215Z"
+              "WhenOpened": "2025-07-10T00:27:42.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Models\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "SokakCanlariProjesi\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T00:21:26.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\buse\\source\\repos\\SokakCanlariProjesi\\SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "SokakCanlariProjesi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T00:19:44.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T00:19:44.413Z"
             }
           ]
         },

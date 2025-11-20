@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SokakCanlariProjesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55e63dd2c3a1688c32495567fcfd3a296b334bc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SokakCanlariProjesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SokakCanlariProjesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

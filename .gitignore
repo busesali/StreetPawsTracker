@@ -1,0 +1,41 @@
+# Visual Studio için klasörler
+.vs/
+*.user
+*.suo
+
+# Build (derleme) klasörleri
+bin/
+obj/
+TestResults/
+
+# Paket dosyalarý
+*.nupkg
+packages/
+artifacts/
+
+# Derlenmiþ dosyalar
+*.dll
+*.exe
+*.pdb
+
+# Log, cache, veritabaný dosyalarý
+*.log
+*.db
+*.cache
+
+# Kiþisel editör ayarlarý
+.vscode/
+.idea/
+
+# ASP.NET içeriði
+wwwroot/lib/
+
+# Sistem dosyalarý
+.DS_Store
+Thumbs.db
+
+# Geçici veya yedek dosyalar
+*.tmp
+*.bak
+*.old
+*.orig
